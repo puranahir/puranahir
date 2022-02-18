@@ -5,7 +5,7 @@ Skills: <p align="left"> <a href="https://developer.android.com" target="_blank"
 
 - 🔭 I’m currently working on [Paient Manager](https://github.com/puranahir/patientmanager) 
 - 🌱 I’m currently learning **Angular,Python** 
-- 💬 Ask me about C#,PHP,Laravel,.NET,Unity 
+- 💬 Ask me about C#,PHP,Laravel,.NET,Unity,HTML5 
 - 📫 How to reach me: **puranahir95@gmail.com** 
 
 
